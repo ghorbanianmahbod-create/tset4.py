@@ -10,6 +10,6 @@ k=awnser-x
 l=awnser-y
 m=awnser-z
 print('num1:',l)
-print('num2:',k)
-print('num3:',x)# tset4.py
+print('num2:',x)
+print('num3:',k)# tset4.py
 A code to find the answer to questions like this:  The sum of the first two numbers and the second number is equal to A, and the sum of the second and third numbers is equal to B, and the sum of the first and third numbers is equal to C. Find each of the numbers.
